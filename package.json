@@ -1,0 +1,8 @@
+{
+  "name": "eth201-dex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewszucs/eth201-dex.git",
+  "author": "Andras Szucs <andrew0szucs@gmail.com>",
+  "license": "MIT"
+}
